@@ -1,0 +1,52 @@
+
+.kepesdivek{
+    width: 50%;
+    height: 50px;
+    background-color:  rgb(13, 49, 248);
+    float: left;
+    
+}
+
+
+#kep1{
+    height: 50px;
+    width: 50px;
+    margin-right: auto;
+    display: block;
+    margin-top: 0%;
+}
+
+
+#feher{
+    float: right;
+    width: 50%;
+    background-color: rgb(225, 254, 255);
+}
+
+
+#kep2{
+    width: 100%;
+    height: 424px;
+    border-bottom-left-radius:15% ;
+    border-bottom-right-radius: 15%;
+}
+
+
+
+.irasok{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 33px;
+}
+
+
+
+#kicsikep{
+    width: 274px;
+    height: 231px;
+}
+
+.irasosdivek{
+    height: 520px;
+    width:280px ;
+
+}
