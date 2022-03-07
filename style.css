@@ -1,32 +1,30 @@
 
+
 .kepesdivek{
-    width: 50%;
-    height: 50px;
-    background-color:  rgb(13, 49, 248);
+    width: 100%;
+    height: 85px;
+    background: linear-gradient(to right, #0D31F8 50%,#E1FEFF 50%);
     float: left;
     
 }
 
 
 #kep1{
-    height: 50px;
-    width: 50px;
-    margin-right: auto;
+    height: 100px;
+    width: 250px;
+    margin: auto;
     display: block;
-    margin-top: 0%;
+  
+    
 }
 
 
-#feher{
-    float: right;
-    width: 50%;
-    background-color: rgb(225, 254, 255);
-}
+
 
 
 #kep2{
     width: 100%;
-    height: 424px;
+    height: 700px;
     border-bottom-left-radius:15% ;
     border-bottom-right-radius: 15%;
 }
@@ -43,10 +41,77 @@
 #kicsikep{
     width: 274px;
     height: 231px;
+    display: inline-block;
 }
 
 .irasosdivek{
     height: 520px;
     width:280px ;
 
+}
+
+#marcius{
+    font-size: medium;
+}
+
+
+#szoveg{
+    font-size: larger;
+}
+
+
+
+#kerekkep{
+    
+    width: 600px;
+    height: 361px;
+    display: inline-block; 
+    float: left;
+   
+    
+
+}
+
+
+#container{
+    height: 400px;
+    width: auto;
+    display: flex;
+}
+
+
+
+
+#trailer{
+    text-align: center;
+    vertical-align: middle;
+    line-height: 400px;
+    
+}
+
+
+
+#ismerteto{
+    border:  2px black solid;
+    text-align:left;
+    height: 400px;
+    width: 250px;
+    margin-left:100px;
+    margin-bottom: 100px;
+
+}
+
+#elerheto{
+    height:260px;
+    width: 530px;
+    margin-left: 270px;
+}
+
+#lejaszkaskep{
+    vertical-align: middle;
+    margin-top: auto;
+    margin-bottom: auto;
+    height: 20px;
+    width: 20px;
+    
 }
